@@ -3,7 +3,7 @@
 ## Opening Comments:
 The IST 782 Portfolio is designed to give students an opportunity to reflect and demonstrate how they achieved the Applied Data Science learning objectives and goals.
 
-Students are required to review all of their prior course accomplishments and determine materials how they met the program learning goals.
+Students are required to review all of their prior course accomplishments and identify materials that demonstrate how they met the program learning goals.
 
 ## Applied Data Science Program Learning Goals:
 • Collect, store,and access data by identifying and leveraging applicable technologies.  
