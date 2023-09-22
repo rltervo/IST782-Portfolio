@@ -6,12 +6,12 @@ The IST 782 Portfolio is designed to give students an opportunity to reflect and
 Students are required to review all of their prior course accomplishments and determine materials how they met the program learning goals.
 
 ## Applied Data Science Program Learning Goals:
-• Collect, store,and access data by identifying and leveraging applicable technologies.
-• Create actionable insight across a range of contexts (e.g. societal, business, political), using data and the full data science life cycle.
-• Apply visualization and predictive models to help generate actionable insight.
-• Use programming languages suchasRandPython to support the generation of actionable insight.
-• Communicate insights gained via visualization and analytics to abroad range of audiences (including project sponsors and technical team leads).
-• Apply ethics in the development, use and evaluation of data and predictive models (e.g., fairness, bias, transparency, privacy).
+• Collect, store,and access data by identifying and leveraging applicable technologies.  
+• Create actionable insight across a range of contexts (e.g. societal, business, political), using data and the full data science life cycle.  
+• Apply visualization and predictive models to help generate actionable insight.  
+• Use programming languages suchasRandPython to support the generation of actionable insight.  
+• Communicate insights gained via visualization and analytics to abroad range of audiences (including project sponsors and technical team leads).  
+• Apply ethics in the development, use and evaluation of data and predictive models (e.g., fairness, bias, transparency, privacy).  
 
 ## Assignments:
 The portfolio assignment was a paper and a presentation.  In both documents I demonstrated that I 
