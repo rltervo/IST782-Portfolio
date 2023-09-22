@@ -9,7 +9,7 @@ Students are required to review all of their prior course accomplishments and id
 • Collect, store,and access data by identifying and leveraging applicable technologies.  
 • Create actionable insight across a range of contexts (e.g. societal, business, political), using data and the full data science life cycle.  
 • Apply visualization and predictive models to help generate actionable insight.  
-• Use programming languages suchasRandPython to support the generation of actionable insight.  
+• Use programming languages such as R and Python to support the generation of actionable insight.  
 • Communicate insights gained via visualization and analytics to abroad range of audiences (including project sponsors and technical team leads).  
 • Apply ethics in the development, use and evaluation of data and predictive models (e.g., fairness, bias, transparency, privacy).  
 
