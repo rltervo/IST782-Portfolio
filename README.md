@@ -14,4 +14,4 @@ Students are required to review all of their prior course accomplishments and id
 • Apply ethics in the development, use and evaluation of data and predictive models (e.g., fairness, bias, transparency, privacy).  
 
 ## Assignments:
-The portfolio assignment was a paper and a presentation.  In both documents I demonstrated that I met the program's learning goals.
+The portfolio assignments were a paper and a presentation that demonstrated that I met the program's learning goals.
